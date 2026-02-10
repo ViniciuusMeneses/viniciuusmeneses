@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -28,6 +22,12 @@
   </a>
 </div>
 
-###
+---
 
+### Sobre mim
+
+Sou estudante da **turma EC1MA** e sou apaixonado por explorar como a computação pode ser aplicada para resolver problemas complexos, especialmente nas áreas de robótica, computação quântica e inovação tecnológica aplicadas.  
+Meu objetivo neste semestre é **aproveitar todas as oportunidades** e **reter ao máximo os conhecimentos compartilhados pelos professores**, construindo uma base sólida para minha jornada na computação.
+
+---
 
