@@ -4,6 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=🤖+Inicializando+sistema...;🌐+Técnico+em+Redes+de+Computadores;🛡️+Explorando+Cibersegurança+e+Defesa+de+Redes;⚙️+Arduino+%7C+CCNA+%7C+CESUPA+EC1MA;✅+Pronto+para+operar.)](https://git.io/typing-svg)
 
+<br/>
+
+<a href="https://www.linkedin.com/in/vinícius-meneses-8040b434a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.credly.com/users/viniciuus-meneses/badges#credly" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -43,14 +52,5 @@ class ViniciusMeneses:
 <img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&logo=nmap&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vinícius-meneses-8040b434a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.credly.com/users/viniciuus-meneses/badges#credly" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"/>
-</a>
 
 ---
