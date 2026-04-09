@@ -12,27 +12,19 @@
 
 ```python
 class ViniciusMeneses:
-    """
-    ██████╗  ██████╗ ██████╗  ██████╗ ████████╗
-    ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝
-    ██████╔╝██║   ██║██████╔╝██║   ██║   ██║   
-    ██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   
-    ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   
-    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝   
-    """
-    def __init__(self):
+       def __init__(self):
         self.unidade     = "Belém, Pará 🌿"
         self.modo        = "Aprendizado Contínuo 📡"
         self.formacao    = ["Eng. da Computação — CESUPA", "Seg. da Informação — UNICV"]
         self.foco        = ["Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖"]
-        self.objetivo    = "Estágio em TI ou Redes — missão em andamento..."
+        self.objetivo    = "Aprende cada dia mais — missão em andamento..."
 
     def stack(self):
         return {
-            "linguagens" : ["Python 🐍", "C++ ⚙️"],
-            "redes"      : ["CCNA", "TCP/IP", "Switches", "Windows Server"],
-            "segurança"  : ["Nmap", "Threat Management", "Network Defense"],
-            "hardware"   : ["Arduino", "Sensores", "Atuadores"],
+            "linguagens"   : ["Python 🐍", "C++ ⚙️"],
+            "redes"        : ["CCNA", "TCP/IP", "Switches", "Windows Server"],
+            "segurança"    : ["Nmap", "Threat Management", "Network Defense"],
+            "experiências" : ["First Robotic Competition", "Hackatons", "Grand Prix"],
         }
 
     def status(self):
@@ -54,5 +46,3 @@ class ViniciusMeneses:
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
-
-## 🏅 Certificações — Banco de Dados
