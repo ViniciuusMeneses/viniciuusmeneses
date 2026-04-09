@@ -13,16 +13,16 @@
 ```python
 class ViniciusMeneses:
     def __init__(self):
-        self.formacao   = ["Eng. da Computação — CESUPA", "Seg. da Informação — UNICV"]
-        self.foco       = ["Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖"]
-        self.objetivo   = "Estágio em TI ou Redes, aplicando na prática o que aprendo"
+        self.formacao    = ["Eng. da Computação — CESUPA", "Seg. da Informação — UNICV"]
+        self.foco        = ["Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖"]
+        self.objetivo    = "Estágio em TI ou Redes, aplicando na prática o que aprendo"
         self.localizacao = "Belém, Pará 🌿"
 
     def stack(self):
         return {
-            "linguagens" : ["Python", "C#", "C++"],
-            "redes"      : ["CCNA", "TCP/IP", "Roteadores", "Switches", "Firewalls"],
-            "segurança"  : ["Threat Management", "Network Defense", "Incident Response"],
+            "linguagens" : ["Python", "C++"],
+            "redes"      : ["CCNA", "TCP/IP", "Roteadores", "Switches", "Windows Server"],
+            "segurança"  : ["Nmap", "Threat Management", "Network Defense", "Incident Response"],
         }
 ```
 
@@ -32,7 +32,7 @@ class ViniciusMeneses:
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,linux,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,github,nmap&theme=dark&perline=6" />
 
 ---
 
