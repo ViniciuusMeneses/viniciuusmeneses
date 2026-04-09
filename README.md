@@ -17,7 +17,6 @@ class ViniciusMeneses:
         self.modo        = "Aprendizado Contínuo 📡"
         self.formacao    = ["Eng. da Computação — CESUPA", "Seg. da Informação — UNICV"]
         self.foco        = ["Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖"]
-        self.objetivo    = "Aprende cada dia mais — missão em andamento..."
 
     def stack(self):
         return {
