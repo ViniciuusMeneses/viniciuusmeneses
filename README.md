@@ -32,7 +32,11 @@ class ViniciusMeneses:
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,github,nmap&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,github&theme=dark&perline=5" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 ---
 
