@@ -12,7 +12,7 @@
 
 ```python
 class ViniciusMeneses:
-       def __init__(self):
+    def __init__(self):
         self.unidade     = "Belém, Pará 🌿"
         self.modo        = "Aprendizado Contínuo 📡"
         self.formacao    = ["Eng. da Computação — CESUPA", "Seg. da Informação — UNICV"]
@@ -43,5 +43,14 @@ class ViniciusMeneses:
 <img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&logo=nmap&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinícius-meneses-8040b434a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.credly.com/users/viniciuus-meneses/badges#credly" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 
 ---
