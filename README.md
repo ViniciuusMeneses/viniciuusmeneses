@@ -15,7 +15,7 @@
 
 <br/>
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="13%"/>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="12%"/>
 <br/>
 <br/>
 <br/>
