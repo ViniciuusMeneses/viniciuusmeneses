@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d2600&height=200&section=header&text=Vinícius%20Meneses&fontSize=52&fontColor=39ff14&fontAlignY=38&desc=Redes%20•%20Cibersegurança%20•%20Robótica&descAlignY=58&descSize=16&descColor=00ff88&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=🤖+Inicializando+sistema...;🌐+Técnico+em+Redes+de+Computadores;🛡️+Explorando+Cibersegurança+e+Defesa+de+Redes;⚙️+Arduino+%7C+CCNA+%7C+CESUPA+EC1MA;✅+Pronto+para+operar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=🤖+Inicializando+sistema...;🌐+Técnico+em+Redes+de+Computadores;🛡️+Explorando+Cibersegurança+e+Defesa+de+Redes;✅+Pronto+para+operar.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,9 +41,9 @@ class ViniciusMeneses:
 
 ---
 
-<div align="center">
-
 ## ⚙️ Módulos Instalados
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,github&theme=dark&perline=5" />
 
@@ -53,4 +53,24 @@ class ViniciusMeneses:
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
+</div>
+
 ---
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="11%"/>
+
+<br/>
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+
+### Obrigado pela visita! &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25"/>
+
+</div>
