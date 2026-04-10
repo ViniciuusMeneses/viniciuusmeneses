@@ -61,7 +61,7 @@ class ViniciusMeneses:
 <br/>
 <br/>
 <br/>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" margin-right="50%" width="8%"/>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="8%"/>
 
 
 <picture>
