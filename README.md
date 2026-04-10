@@ -72,6 +72,5 @@ class ViniciusMeneses:
 
 <div align="center">
 
-### Obrigado pela visita! &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25"/>
 
 </div>
