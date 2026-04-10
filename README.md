@@ -12,11 +12,11 @@
 <a href="https://www.credly.com/users/viniciuus-meneses/badges#credly" target="_blank">
   <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="8%"/>
 
 </div>
 
 ---
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" align="right" width="8%"/>
 
 ## 🤖 Identificação do Sistema
 
