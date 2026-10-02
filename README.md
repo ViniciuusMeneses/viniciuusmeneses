@@ -49,7 +49,7 @@ public class ViniciusMeneses {
 
 </div>
 
-Cursos da Cisco Networking Academy (CCNA e outros), com os badges no [Credly](https://www.credly.com/users/viniciuus-meneses/badges#credly).
+Cursos da Cisco Networking Academy: CCNA: Introduction to Networks, Network Defense, Cyber Threat Management, IT Essentials e Introduction to Cybersecurity. Os badges estão no [Credly](https://www.credly.com/users/viniciuus-meneses/badges#credly).
 
 ---
 
