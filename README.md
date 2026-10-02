@@ -67,7 +67,7 @@ Cursos da Cisco Networking Academy (CCNA e outros), com os badges no [Credly](ht
 
 ## 🏆 Experiências
 
-- **FIRST Robotics Competition (2023 a 2025):** equipe #9302 PARATECH, em estratégia, pilotagem e divulgação. Rising All-Star Award no Regional Brazil – Brasília, em 2025.
+- **FIRST Robotics Competition (2023 a 2025):** equipe #9302 PARATECH. Rising All-Star Award no Regional Brazil – Brasília, em 2025.
 - **Hackathons e Grand Prix.**
 
 ---
