@@ -27,10 +27,8 @@ public class ViniciusMeneses {
         "Técnico em Redes de Computadores"
     };
 
-    String[] foco = { "Redes de computadores", "Java" };
+    String[] foco = { "Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖" };
 
-    String agora = "Montando um laboratório de rede de escritório no Packet Tracer "
-                 + "e ferramentas de rede em Java";
 }
 ```
 
