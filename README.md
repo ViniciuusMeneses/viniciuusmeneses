@@ -27,7 +27,7 @@ public class ViniciusMeneses {
         "Técnico em Redes de Computadores"
     };
 
-    String[] foco = { "Redes de Computadores 🌐", "Cibersegurança 🛡️", "Robótica 🤖" };
+    String[] foco = { "Redes de Computadores 🌐", "Programação 👨‍💻", "Robótica 🤖" };
 
 }
 ```
